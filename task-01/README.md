@@ -447,7 +447,7 @@ git rebase --onto your-master issue-555 rebase-complex
 git verify
 ```
 
-**Transferred commits from issue-555 to start from your-master, a common cleanup technique.**
+**Transferred commits from issue-555 to start from your-master, which is a common cleanup technique.**
 
 
 ### 🧩 Exercise 21 – Invalid Order
@@ -554,5 +554,5 @@ git push origin 4d2725ac4c874dbb207770001def27aed48e9ddb:find-bug
 
 ## 🏁 Conclusion
 
-Through these 23 exercises, I learned how Git actually works under the hood — from commits and merges to rebases, cherry-picks, reflogs, and even debugging with bisect.
+Through these 23 exercises, I learned how Git actually works under the hood - from commits and merges to rebases, cherry-picks, reflogs, and even debugging with bisect.
 Each task simulated real-world version control challenges that every developer eventually faces.
