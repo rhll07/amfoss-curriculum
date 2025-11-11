@@ -551,7 +551,6 @@ git push origin 4d2725ac4c874dbb207770001def27aed48e9ddb:find-bug
 
 **Automated bug hunt using bisect, running a base64-decoding test to find when “jackass” appeared.**
 
-![Congratulation Message](congratulation.png)
 
 ## 🏁 Conclusion
 
