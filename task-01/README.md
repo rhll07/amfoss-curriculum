@@ -53,7 +53,7 @@ git verify
 
 **Scenario:** To prevent unwanted files from being tracked.
 
-**Commands and explanantion:**
+**Commands and explanation:**
 ```bash
 git reset HEAD A.txt
 ```
@@ -262,7 +262,7 @@ git commit -a --amend
 git verify
 ```
 
-**"git commit -a --amend" allows to add or change files in the last commit, hence modigying it without creating a new commit.**
+**"git commit -a --amend" allows to add or change files in the last commit, hence modifying it without creating a new commit.**
 
 
 
