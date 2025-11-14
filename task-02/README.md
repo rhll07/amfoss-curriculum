@@ -1,8 +1,8 @@
 # Software Requirements Specification for MeloFi
-**Submitted by: Rahul Krishna R**
-**Submitted to: amFOSS Anveshan 2025**
-**Submission Date: 14-11-2025**
-**Base Version: 1.0**
+**Submitted by: Rahul Krishna R\n**
+**Submitted to: amFOSS Anveshan 20025\n**
+**Submission Date: 14-11-2025\n**
+**Base Version: 1.0\n**
 
 ## 1. Introduction
 ### 1.1 Purpose
@@ -19,7 +19,7 @@ MeloFi aims to be simple, easy to use, and accessible on both web and mobile pla
 1. My classmates/seniors willing to contribute or evaluate my project.
 2. Anyone willing to experience simple and enhanced music experience through MeloFi.
 
-##2. Description of the System
+## 2. Description of the System
 ### 2.1 Core Idea
 The core idea of MeloFi is to provide a minimal music streaming platform where users can discover tracks, listen music, and create personal playlists.
 A simple user system supports the users to follow each others to maintain basic connectivity between users, Ultimately gifting a rich audio experience.
