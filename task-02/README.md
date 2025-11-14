@@ -1,7 +1,10 @@
 # Software Requirements Specification for MeloFi
 **Submitted by: Rahul Krishna R**
+
 **Submitted to: amFOSS Anveshan 2025**
+
 **Submission Date: 14-11-2025**
+
 **Base Version: 1.0**
 
 ## 1. Introduction
