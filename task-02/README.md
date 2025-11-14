@@ -71,6 +71,7 @@ A simple user system supports the users to follow each others to maintain basic 
 **Android Studio** - whichis thew  main IDE for Android development
 ### 5.3. Backend
 **Flask(Python):** - for the backend framework.
+
 **REST APIs:** - for handling the data exchange between frontend and backend.
 
 ## 6. Conclusion
