@@ -65,6 +65,8 @@ A simple user system supports the users to follow each others to maintain basic 
 (Welcome, Home, Search, Player, Playlist, Profile)
 ### 5.2. Frontend
 **React.js:** a javascript library for building the web application.
+**Kotlin:** - for building the Android APK version of MeloFi
+**Android Studio** - whichis thew  main IDE for Android development
 ### 5.3. Backend
 **Flask(Python):** - for the backend framework.
 **REST APIs:** - for handling the data exchange between frontend and backend.
