@@ -11,12 +11,12 @@ Since, I am currently working on the tasks right now, as of now the repo is inco
 
 | Task-##    | Description            | Status |
 |------------|------------------------|--------|
-| Task-00    | Codeforces             | ❌     |
+| Task-00    | Codeforces             | 🟡     |
 | Task-01    | Git                    | ✅     |
 | Task-02    | SRS                    | ✅     |
 | Task-03    | Wireframe              | ✅     |
 | Task-04    | Design                 | ✅     |
-| Task-05    | Frontend Development   | ❌     |
+| Task-05    | Frontend Development   | 🟡     |
 | Task-06    | Backend Development    | ❌     |
 | Task-07    | Mobile App Development | ❌     |
 | Task-08    | Build a Simple Shell   | ❌     |
