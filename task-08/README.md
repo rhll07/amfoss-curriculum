@@ -1,7 +1,6 @@
 # task-08 (Build a Simple Shell)
 
-This is a CLI (Command Line Interface) based simple shell built using C. It can read command inputs from the user,
-process it, and produce an output. It also can handle background processes, keep a track on it and could print the PID's of the background processes and also kill the currently running foreground processes on user interrupt.
+This is a CLI (Command Line Interface) based simple shell built using C. It can read command inputs from the user, processes it, and produce an output. It also can handle background processes, keep a track on it and could print the PID's of the background processes and also suspend the currently running foreground processes on user interrupt.
 
 ### The preprocessor directives used in this program are :
 - **#include**
@@ -15,13 +14,13 @@ process it, and produce an output. It also can handle background processes, keep
 - **sys/wait.h**
 - **signal.h**
 
-### Constatnt used are :
+### Constants used are :
 - **MAX_LINE**
 - **MAX_ARGS**
 - **MAX_BG**
 
 ### The structure of the program is as follows:
-- **Signal handlers** (To print PID's of background processes or kill a process upon user input/interrupt
+- **Signal handlers** (To print PID's of background processes or suspend a process upon user input/interrupt)
 - **Utility** (To manage the system resources efficiently)
 - **Main Shell**
 	- It registers signal handlers
@@ -34,7 +33,7 @@ process it, and produce an output. It also can handle background processes, keep
 	- It supports background execution when user adds **&** at the end of a command. The shell continues to print prompt and accept input without waiting.
 	- Signal handlings are implemented as follows :
 		- Upon pressing **Ctrl+C**, the shell prints the PID's of the currently running background processes
-		- Upon pressing **Ctrl+Z**, the shell suspends/kills the currently running foreground processes
+		- Upon pressing **Ctrl+Z**, the shell suspends the currently running foreground processes
 
 ### You could also use/test this simple shell
 1. Clone this repo
