@@ -1,31 +1,24 @@
 # task-08 (Build a Simple Shell)
 
 This is a CLI (Command Line Interface) based simple shell built using C. It can read command inputs from the user,
-process it, and produce an output. It also can handle background processes, keep a track on it and could print the PID's of the background processes
+process it, and produce an output. It also can handle background processes, keep a track on it and could print the PID's of the background processes and also kill the currently running foreground processes on user interrupt.
 
 ### The preprocessor directives used in this program are
 - **#include**
 - **#define**
 
-Header files included are:
-	- **stdio.h**
+### Header files included are:
+- **stdio.h**
+- **stdlib.h**
+- **string.h**
+- **unistd.h**
+- **sys/wait.h**
+- **signal.h**
 
-	- **stdlib.h**
-
-	- **string.h**
-
-	- **unistd.h**
-
-	- **sys/wait.h**
-
-	- **signal.h**
-
-Constatnt used are:
-	- **MAX_LINE**
-
-	- **MAX_ARGS**
-
-	- **MAX_BG**
+### Constatnt used are:
+- **MAX_LINE**
+- **MAX_ARGS**
+- **MAX_BG**
 
 The structure of the program is as follows:
 	- **Signal handlers** (To print PID's of background processes or kill a process upon user input/interrupt
