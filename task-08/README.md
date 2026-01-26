@@ -3,10 +3,9 @@
 This is a CLI (Command Line Interface) based simple shell built using C. It can read command inputs from the user,
 process it, and produce an output. It also can handle background processes, keep a track on it and could print the PID's of the background processes
 
-The preprocessor directives used in this program are
-	- **#include**
-
-	- **#define**
+### The preprocessor directives used in this program are
+- **#include**
+- **#define**
 
 Header files included are:
 	- **stdio.h**
