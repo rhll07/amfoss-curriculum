@@ -20,7 +20,7 @@ process it, and produce an output. It also can handle background processes, keep
 - **MAX_ARGS**
 - **MAX_BG**
 
-The structure of the program is as follows:
+### The structure of the program is as follows:
 - **Signal handlers** (To print PID's of background processes or kill a process upon user input/interrupt
 - **Utility** (To manage the system resources efficiently)
 - **Main Shell**
@@ -36,7 +36,7 @@ The structure of the program is as follows:
 		- Upon pressing **Ctrl+C**, the shell prints the PID's of the currently running background processes
 		- Upon pressing **Ctrl+Z**, the shell suspends/kills the currently running foreground processes
 
-You could also use/test this simple shell
+### You could also use/test this simple shell
 1. Clone this repo
 ```bash
 https://github.com/rhll07/amfoss-curriculum
