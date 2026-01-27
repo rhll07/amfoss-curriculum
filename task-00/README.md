@@ -19,3 +19,8 @@
 	- Problem B from Codeforces Round 1074 (Div.4)
 	- Solved using Python
 	- Was hacked by an other user
+
+4. [DBMB and the Array](https://codeforces.com/contest/2193/problem/A)
+
+	- Problem A from codeforces Round 1076 (Div.3)
+	- Solved using Python
