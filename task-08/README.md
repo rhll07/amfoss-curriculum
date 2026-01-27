@@ -21,7 +21,7 @@ This is a CLI (Command Line Interface) based simple shell built using C. It can 
 
 ### The structure of the program is as follows:
 - **Signal handlers** (To print PIDs of background processes or suspend a process upon user input/interrupt)
-- **Utility** (To manage the system resources efficiently - manage background processes' PIDs and clean up finished processes)
+- **Utility** (To manage background processes' PIDs and clean up finished processes)
 - **Main Shell**
 	- It registers signal handlers
 	- Cleans up the finished background processes
