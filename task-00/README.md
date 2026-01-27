@@ -2,6 +2,8 @@
 
 [Click here to visit my Codeforces profile](https://codeforces.com/profile/rhll07)
 
+Current Codeforces Rating: **729**
+
 ## Problems solved in Codeforces
 
 1. [Array Coloring](https://codeforces.com/contest/2191/problem/A)
