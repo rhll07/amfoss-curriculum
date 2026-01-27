@@ -1,6 +1,6 @@
 # task-08 (Build a Simple Shell)
 
-This is a CLI (Command Line Interface) based simple shell built using C. It can read command inputs from the user, processes them, and produce output. It also can handle background processes, keep track of them and could print the PIDs of the background processes and also suspend the currently running foreground process on user interrupt.
+This is a CLI (Command Line Interface) based simple shell built using C. It can read command inputs from the user, process them, and produce output. It also can handle background processes, keep track of them and could print the PIDs of the background processes and also suspend the currently running foreground process on user interrupt.
 
 ### The preprocessor directives used in this program are :
 - **#include**
